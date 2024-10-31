@@ -130,7 +130,7 @@ const View = () => {
                     />
                 )}
                 
-                <ContentText>TAL : {phone || '전화번호 없음'}</ContentText>
+                <ContentText>TELL : {phone || '전화번호 없음'}</ContentText>
                 <ContentText>EMAIL : {email || '이메일 없음'}</ContentText>
 
                 <ShareSection>
